@@ -1,0 +1,9 @@
+D:\Facultad\Programacion\Actividad 1\Aritmetica.Vb\Aritmetica.Vb\Aritmetica.Vb\bin\Debug\Aritmetica.Vb.exe.config
+D:\Facultad\Programacion\Actividad 1\Aritmetica.Vb\Aritmetica.Vb\Aritmetica.Vb\bin\Debug\Aritmetica.Vb.exe
+D:\Facultad\Programacion\Actividad 1\Aritmetica.Vb\Aritmetica.Vb\Aritmetica.Vb\bin\Debug\Aritmetica.Vb.pdb
+D:\Facultad\Programacion\Actividad 1\Aritmetica.Vb\Aritmetica.Vb\Aritmetica.Vb\bin\Debug\Aritmetica.Vb.xml
+D:\Facultad\Programacion\Actividad 1\Aritmetica.Vb\Aritmetica.Vb\Aritmetica.Vb\obj\Debug\Aritmetica.Vb.Resources.resources
+D:\Facultad\Programacion\Actividad 1\Aritmetica.Vb\Aritmetica.Vb\Aritmetica.Vb\obj\Debug\Aritmetica.Vb.vbproj.GenerateResource.Cache
+D:\Facultad\Programacion\Actividad 1\Aritmetica.Vb\Aritmetica.Vb\Aritmetica.Vb\obj\Debug\Aritmetica.Vb.exe
+D:\Facultad\Programacion\Actividad 1\Aritmetica.Vb\Aritmetica.Vb\Aritmetica.Vb\obj\Debug\Aritmetica.Vb.xml
+D:\Facultad\Programacion\Actividad 1\Aritmetica.Vb\Aritmetica.Vb\Aritmetica.Vb\obj\Debug\Aritmetica.Vb.pdb
